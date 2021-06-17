@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Blog - Page 1</title>
+        
+    </head>
+
+    <header style="color:white;">
+        <div style="text-align:center;"><h1>Today's date:</h1></div>
+        <br>
+        <div style="text-align:center;"><h2>Tuesday, June 15, 2021</h2></div>
+        <br>
+        <hr>
+        <br>
+    </header>
+
+    <body style="background-color: #06163b;">
+        <div style="text-align:center; color:white; font-size:x-large; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">
+        <article>
+            <p>
+            I learned about the overall function of various languages 
+            that are used in web development - including HTML, 
+            CSS, and Javascript. HTML is like the skeleton of the
+            web page, while CSS is like the skin, affecting 
+            how the page is viewed and presented typically
+            by linking it to the HTML file. On the other hand,
+            Javascript is more like something used for retrieval from
+            servers and involved more with the inner workings of the website's 
+            function. I also learned about the stages of software development and that
+            products typically go through these cycles multiple times before
+            releasing a fully fledged product or website. These steps include
+            requirement analysis, design, programming/creation, testing, and reassessment.
+            </p>
+            <br>
+            <img src="https://i.imgur.com/D6dl3hX.jpg" alt="loading" width="300" height="300"/>
+            <p style="font-size:medium;">Description: Me in today's class</p>
+            <br>
+            <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><button style="background-color: transparent; border: 1px solid white; color:white;">Click for an easter egg!</button></a>
+            <hr>
+            <br>
+            <h1>First Steps<br>Wednesday, June 16th, 2021</h1>
+            <br>
+            <h2>My Favorite Movie</h2>
+            <p>My favorite movie is The Room. Not because of the great acting or amazing plot, but because of the opposite: it absolutely sucks. It sucks so much that it's actually good. My favorite line from the movie is "Oh Hi Mark!"</p>
+            <a href="https://www.imdb.com/title/tt0368226/" target="_blank"><img src="https://thefridacinema.org/wp-content/uploads/2019/06/the-room-poster-1.jpg" alt="loading" height="700" width="500"></a>
+        </article>
+        </div>
+    </body>
+    
+</html>
